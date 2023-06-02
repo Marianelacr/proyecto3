@@ -1,0 +1,7 @@
+D:\tp1\punto2\punto2\bin\Debug\punto2.exe.config
+D:\tp1\punto2\punto2\bin\Debug\punto2.exe
+D:\tp1\punto2\punto2\bin\Debug\punto2.pdb
+D:\tp1\punto2\punto2\obj\Debug\punto2.csprojAssemblyReference.cache
+D:\tp1\punto2\punto2\obj\Debug\punto2.csproj.CoreCompileInputs.cache
+D:\tp1\punto2\punto2\obj\Debug\punto2.exe
+D:\tp1\punto2\punto2\obj\Debug\punto2.pdb

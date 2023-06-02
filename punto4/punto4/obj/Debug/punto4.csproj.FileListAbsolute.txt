@@ -1,0 +1,7 @@
+D:\tp1\punto4\punto4\bin\Debug\punto4.exe.config
+D:\tp1\punto4\punto4\bin\Debug\punto4.exe
+D:\tp1\punto4\punto4\bin\Debug\punto4.pdb
+D:\tp1\punto4\punto4\obj\Debug\punto4.csprojAssemblyReference.cache
+D:\tp1\punto4\punto4\obj\Debug\punto4.csproj.CoreCompileInputs.cache
+D:\tp1\punto4\punto4\obj\Debug\punto4.exe
+D:\tp1\punto4\punto4\obj\Debug\punto4.pdb
